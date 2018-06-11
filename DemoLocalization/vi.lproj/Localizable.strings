@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DemoLocalization
+
+  Created by Vu Ngoc Cong on 5/29/18.
+  Copyright © 2018 Vu Ngoc Cong. All rights reserved.
+*/
+"Welcome" = "Chao Mung";
+"Cancel" = "Huy";
+"Login" = "Dang Nhat";
+"Thank you for trying this app, you are a great person!" = "Cam on ban da thu app nay, ban la mot nguoi tuyet voi !";
+"Save" = "Luu";
+"Back" = "Tro Lai";
+"qs4-6I-gUp.normalTitle" = "Them Moi";

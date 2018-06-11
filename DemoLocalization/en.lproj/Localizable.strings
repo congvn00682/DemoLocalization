@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DemoLocalization
+
+  Created by Vu Ngoc Cong on 5/29/18.
+  Copyright © 2018 Vu Ngoc Cong. All rights reserved.
+*/
+"Welcome" = "Welcome";
+"Cancel" = "Cancel";
+"Login" = "Login";
+"Thank you for trying this app, you are a great person!" = "Thank you for trying this app, you are a great person!";
+"Save" = "Save";
+"Back" = "Back";
+"Add New" = "Add New";
